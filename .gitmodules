@@ -4,12 +4,16 @@
 [submodule "42-gnl"]
 	path = 42-gnl
 	url = https://github.com/denisgodoy/42-gnl.git
+	branch = main
 [submodule "42-ft_printf"]
 	path = 42-ft_printf
 	url = https://github.com/denisgodoy/42-ft_printf.git
+	branch = main
 [submodule "42-born2beroot"]
 	path = 42-born2beroot
 	url = https://github.com/denisgodoy/42-born2beroot.git
+	branch = main
 [submodule "42-so_long"]
 	path = 42-so_long
 	url = https://github.com/denisgodoy/42-so_long
+	branch = main
