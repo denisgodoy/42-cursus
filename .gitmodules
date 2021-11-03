@@ -17,3 +17,7 @@
 	path = 42-so_long
 	url = https://github.com/denisgodoy/42-so_long
 	branch = main
+[submodule "42-pipex"]
+	path = 42-pipex
+	url = https://github.com/denisgodoy/42-pipex
+	branch = main
