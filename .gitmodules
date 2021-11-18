@@ -21,3 +21,7 @@
 	path = 42-pipex
 	url = https://github.com/denisgodoy/42-pipex
 	branch = main
+[submodule "42-push_swap"]
+	path = 42-push_swap
+	url = https://github.com/denisgodoy/42-push_swap.git
+	branch = main
